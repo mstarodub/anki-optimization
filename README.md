@@ -1,3 +1,5 @@
+# Addons
+
 * **[Experimental Card Ease Factor](https://github.com/eshapard/experimentalCardEaseFactor)**
 
    Modifies the algorithm to work according to the Ebbinghaus forgetting curve model, while targeting a 85% success rate. Also removes the redundant "easy"/"hard" choices. For a more detailed explanation, read https://eshapard.github.io/anki/thoughts-on-a-new-algorithm-for-anki.html
