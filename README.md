@@ -1,3 +1,5 @@
+# [Algorithm Rework Plan](plan.md)
+
 # Addons
 
 * **[Experimental Card Ease Factor](https://github.com/eshapard/experimentalCardEaseFactor)**
